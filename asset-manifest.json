@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MonstersRolodox/static/css/main.42882dda.css",
+    "main.js": "/MonstersRolodox/static/js/main.83b64704.js",
+    "index.html": "/MonstersRolodox/index.html",
+    "main.42882dda.css.map": "/MonstersRolodox/static/css/main.42882dda.css.map",
+    "main.83b64704.js.map": "/MonstersRolodox/static/js/main.83b64704.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42882dda.css",
+    "static/js/main.83b64704.js"
+  ]
+}
