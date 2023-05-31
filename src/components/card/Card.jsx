@@ -3,6 +3,8 @@ import "./Card.css"
 
 const Card = (props) => {
   // here i am checking the github
+  // here i am checking the github
+  // here i am checking the github
   return (
     <div className="card-container">
       <img src={`https://robohash.org/${props.monster.id}?set=set2&size=180x180`} alt="monster" />
