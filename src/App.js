@@ -29,7 +29,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Monsters Rolodex</h1>
-        {/* hello check */}
+        {/* this component is card component where data is passed through props */}
         <SearchBox placeholder="Search Monster" handleChange={this.handleChange} />
         <CardList monsters={filterdMonsters} />
       </div>
